@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\score.cs">
+    <Files>
+      <File FileName="Assets\script\robotctrl.cs" Line="16" Column="1" />
+      <File FileName="Assets\script\robotcontrol.cs" Line="16" Column="27" />
+      <File FileName="Assets\script\button.cs" Line="12" Column="28" />
+      <File FileName="Assets\script\score.cs" Line="14" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
